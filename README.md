@@ -54,7 +54,9 @@
 
 ## 📧 Contact Me
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/john_kim_9312/)](https://www.instagram.com/john_kim_9312/) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://open.kakao.com/o/sTrnONte)](https://open.kakao.com/o/sTrnONte) 
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - dhkdhd123@gmail.com
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/john_kim_9312/)](https://www.instagram.com/john_kim_9312/) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://open.kakao.com/o/sTrnONte)](https://open.kakao.com/o/sTrnONte)
+
 
