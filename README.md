@@ -8,19 +8,19 @@
 
 ## 📝 Portfolio
 
+Web Site(brief description) : https://nextjs-portfolio-rosy-gamma.vercel.app/
 
-
-
+Notion(detail description) : 
 
 ## 😎 BOJ Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/)
 
-
-
 ## 💻 Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kim93&layout=compact)](https://github.com/John-Kim93/github-readme-stats)
+
+- (22.08.09) gitlab -> github 미러링 에러로 인해 MUL 데이터 부정확함
 
 #### Main Skills 🔨
 
