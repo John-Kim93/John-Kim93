@@ -15,7 +15,8 @@ Notion(detail description) : https://vast-blouse-d8e.notion.site/FE-Developer-98
 ## 😎 BOJ Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/)
-풀이 github : https://github.com/ChanggiJeon/algo_study (22.01 ~ 진행중)
+
+- 풀이 github : https://github.com/ChanggiJeon/algo_study (22.01 ~ 진행중)
 
 ## 💻 Skills
 
