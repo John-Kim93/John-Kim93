@@ -17,6 +17,9 @@ Notion(detail description) : https://vast-blouse-d8e.notion.site/FE-Developer-98
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/)
 
 - 풀이 github : https://github.com/ChanggiJeon/algo_study (22.01 ~ 진행중)
+- 진행 방식
+  - 22.01 ~ 22.09 : 일주일 5문제 출제(브론즈~골드) / 자유롭게 풀이 후 매주 토요일 미팅 진행
+  - 22.10 ~ : 일주일 3문제 출제(골드 or lv3) / 2문제 이상 푼 사람만 토요일 미팅 참석 가능
 
 ## 💻 Skills
 
