@@ -21,12 +21,6 @@ Notion(detail description) : https://vast-blouse-d8e.notion.site/FE-Developer-98
   - 22.01 ~ 22.09 : 일주일 5문제 출제(브론즈~골드) / 자유롭게 풀이 후 매주 토요일 미팅 진행
   - 22.10 ~ : 일주일 3문제 출제(골드 or lv3) / 2문제 이상 푼 사람만 토요일 미팅 참석 가능
 
-## 💻 Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kim93&layout=compact)](https://github.com/John-Kim93/github-readme-stats)
-
-- (22.08.09) gitlab -> github 미러링 에러로 인해 MUL 데이터 부정확함
-
 ## 📧 Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/john_kim_9312/)](https://www.instagram.com/john_kim_9312/) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://open.kakao.com/o/sTrnONte)](https://open.kakao.com/o/sTrnONte) 
