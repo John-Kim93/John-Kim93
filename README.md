@@ -1,25 +1,15 @@
 # FE Developer, John Kim  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJhon-Kim93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)(from. 2022/AUG)
 
-## 😊 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kim93&show_icons=true&theme=radical) 
-
-
+|  😊 Github Stats | 😎 BOJ Rank |
+|--|--|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kim93&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/) |
 
 ## 📝 Portfolio
 
 Notion(detail description) : https://vast-blouse-d8e.notion.site/FE-Developer-9809ac8996e84d9e9e86626239c102e2
 
 Web Site(brief description) : https://nextjs-portfolio-rosy-gamma.vercel.app/
-
-## 😎 BOJ Rank
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/)
-
-- 알고리즘 스터디(5인) : https://github.com/ChanggiJeon/algo_study (22.01 ~ 22.10)
-- 진행 방식
-  - 22.01 ~ 22.09 : 일주일 5문제 출제(브론즈~골드) / 자유롭게 풀이 후 매주 토요일 미팅 진행
-  - 22.10 : 일주일 3문제 출제(골드 or lv3) / 2문제 이상 푼 사람만 토요일 미팅 참석 가능
 
 ## 📧 Contact Me
 
