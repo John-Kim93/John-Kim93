@@ -7,11 +7,11 @@
 
 ## 📝 Introduce Myself
 
+Blog : https://jhon-kim93.tistory.com/
+
 Notion(detail description) : https://vast-blouse-d8e.notion.site/FE-Developer-9809ac8996e84d9e9e86626239c102e2
 
 Web Site(brief description) : https://nextjs-portfolio-rosy-gamma.vercel.app/
-
-Blog : https://jhon-kim93.tistory.com/
 
 ## 📧 Contact Me
 
