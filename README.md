@@ -7,15 +7,20 @@
 
 ## 📝 Introduce Myself
 
-Blog : https://jhon-kim93.tistory.com/
+아마추어 딱지를 떼고 프로 FE 개발자로 성장하고 있는 김종현입니다. 반갑습니다.
 
-Notion : https://vast-blouse-d8e.notion.site/FE-Developer-9809ac8996e84d9e9e86626239c102e2
+삼성 청년 소프트웨어 아카데미(SSAFY)에서 소프트웨어 공부를 시작했고 현재는 ㈜윈스에서 일하고 있습니다.
 
-## 📧 Contact Me
+주니어를 떼고 미들급 FE 개발자로 성장하기 위해 항해 플러스 프론트엔드 과정을 수료하였습니다.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/john_kim_9312/)](https://www.instagram.com/john_kim_9312/) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000&link=https://open.kakao.com/o/sTrnONte)](https://open.kakao.com/o/sTrnONte) 
+최근에는 문서화/클린코드 그리고 FE Test에 관심을 갖고 공부하고 있습니다.
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - dhkdhd123@gmail.com
+FE 개발자의 미래 먹거리로 블록체인/WebAssembly(with Rust)에도 조금씩 관심을 갖고 공부하고 있습니다.
 
-
+관심 있는 주제에 대해서는 꾸준히 블로그에 글을 작성하고 있습니다.
+- **포스텔의 법칙 in Typescript :** - 작성중 -
+- **주니어 개발자가 이해한 동기/비동기 :** https://jhon-kim93.tistory.com/52
+- **참조값의 깊이에 대한 고찰 (feat. 복사와 비교) :** https://jhon-kim93.tistory.com/58
+- **[React Hooks] useContext 이해하기 :** https://jhon-kim93.tistory.com/60
+- **브라우저 웹 스토리지와 인증 :** https://jhon-kim93.tistory.com/23
 
