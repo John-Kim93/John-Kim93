@@ -1,10 +1,6 @@
 # FE Developer, John Kim  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJhon-Kim93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)(from. 2022/AUG)
 
 
-|  😊 Github Stats | 😎 BOJ Rank |
-|--|--|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kim93&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/) |
-
 ## 📝 Introduce Myself
 
 아마추어 딱지를 떼고 프로 FE 개발자로 성장하고 있는 김종현입니다. 반갑습니다.
@@ -24,3 +20,6 @@ FE 개발자의 미래 먹거리로 블록체인/WebAssembly(with Rust)에도 �
 - **[React Hooks] useContext 이해하기 :** https://jhon-kim93.tistory.com/60
 - **브라우저 웹 스토리지와 인증 :** https://jhon-kim93.tistory.com/23
 
+|  😊 Github Stats | 😎 BOJ Rank |
+|--|--|
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kim93&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/) |
