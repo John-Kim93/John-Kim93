@@ -14,11 +14,11 @@
 FE 개발자의 미래 먹거리로 블록체인/WebAssembly(with Rust)에도 조금씩 관심을 갖고 공부하고 있습니다.
 
 관심 있는 주제에 대해서는 꾸준히 블로그에 글을 작성하고 있습니다.
-- **포스텔의 법칙 in Typescript :** - 작성중 -
-- **주니어 개발자가 이해한 동기/비동기 :** https://jhon-kim93.tistory.com/52
-- **참조값의 깊이에 대한 고찰 (feat. 복사와 비교) :** https://jhon-kim93.tistory.com/58
-- **[React Hooks] useContext 이해하기 :** https://jhon-kim93.tistory.com/60
-- **브라우저 웹 스토리지와 인증 :** https://jhon-kim93.tistory.com/23
+- **[포스텔의 법칙 in Typescript](https://jhon-kim93.tistory.com/70)**
+- **[주니어 개발자가 이해한 동기/비동기](https://jhon-kim93.tistory.com/52)** 
+- **[참조값의 깊이에 대한 고찰 (feat. 복사와 비교)](https://jhon-kim93.tistory.com/58)**
+- **[[React Hooks] useContext 이해하기](https://jhon-kim93.tistory.com/60)**
+- **[브라우저 웹 스토리지와 인증](https://jhon-kim93.tistory.com/23)**
 
 ## 🏃 Activity
 
