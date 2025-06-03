@@ -26,3 +26,5 @@ FE 개발자의 미래 먹거리로 블록체인/WebAssembly(with Rust)에도 �
 |--|--|--|
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kim93&show_icons=true&theme=radical) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/) |<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="HangHaePlus Badge" style="display: block; margin: 0 auto; height: 60px;"/></a> |
 
+- 2025.02.01 ~ now : 물리치료사를 위한 익명 커뮤니티 We Are Physio Client 개발
+  - [We Are Physio!](https://www.wearephysio.com)
