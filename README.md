@@ -1,4 +1,4 @@
-# FE Developer, John Kim  (from. 2022/AUG)
+# FE Developer, John Kim  (Since. 2022/AUG)
 
 
 ## 📝 Introduce Myself
