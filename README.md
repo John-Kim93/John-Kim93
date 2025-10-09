@@ -9,7 +9,7 @@
 
 실력 향상을 위해 **항해 플러스** 프론트엔드 과정을 수료하였습니다.
 
-물리치료사를 위한 커뮤니티 플랫폼 **ThePT** 운영/개발(FE)을 담당하고 있습니다. [Link to ThePT](https://www.thept.co.kr/)
+물리치료사를 위한 커뮤니티 사이트 **ThePT** 운영/개발(FE)을 담당하고 있습니다. [Link to ThePT](https://www.thept.co.kr/)
 
 사회초년생들과 은퇴한 시니어들 혹은 선한 영향력을 가지신 분들을 매칭해주는 멘토링 플랫폼 **우주멘토** 운영/개발(FE)을 담당하고 있습니다. [Link to Uzumentor](https://landing.uzumentor.com/)
 
