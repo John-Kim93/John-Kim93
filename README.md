@@ -3,7 +3,7 @@
 
 ## 📝 Introduce Myself
 
-안녕하세요. 개발자 **김종현**입니다.
+안녕하세요. 프론트엔드 개발자 **김종현**입니다.
 
 삼성 청년 소프트웨어 아카데미(**SSAFY**)에서 소프트웨어 공부를 시작했고 현재는 **SSG.COM**에서 프론트엔드 개발자로 일하고 있습니다.
 
@@ -11,19 +11,16 @@
 
 물리치료사를 위한 커뮤니티 사이트 **ThePT** 운영/개발(FE)을 담당하고 있습니다. [Link to ThePT](https://www.thept.co.kr/)
 
-현재는 **문서화/클린코드** 그리고 **FE Test**에 관심을 갖고 공부하고 있습니다.
+현재는 **문서화/클린코드** 그리고 **테스트 코드**에 관심을 갖고 공부하고 있습니다.
 
-FE 개발자의 미래 먹거리로 **블록체인/WebAssembly**(with Rust)에도 조금씩 관심을 갖고 공부하고 있습니다.
+**블로그**도 꾸준히 작성하고 있으니 한 번 놀러오세요~
 
-관심 있는 주제에 대해서는 꾸준히 **블로그**에 글을 작성하고 있습니다.
+[ 개발 주제 ]
 - [포스텔의 법칙 in Typescript](https://jhon-kim93.tistory.com/70)
 - [주니어 개발자가 이해한 동기/비동기](https://jhon-kim93.tistory.com/52)
 - [참조값의 깊이에 대한 고찰 (feat. 복사와 비교)](https://jhon-kim93.tistory.com/58)
 - [[React Hooks] useContext 이해하기](https://jhon-kim93.tistory.com/60)
 - [브라우저 웹 스토리지와 인증](https://jhon-kim93.tistory.com/23)
 
-## 🏃 Activity
-
-| 😎 BOJ Rank | 🌊 HanghaePlus |
-|--|--|
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhkdhd123)](https://solved.ac/이름/) |<a href="https://hhpluscertificateofcompletion.oopy.io/"><img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="HangHaePlus Badge" style="display: block; margin: 0 auto; height: 60px;"/></a> |
+[ 연도별 회고 ]
+- [2025 회고](https://jhon-kim93.tistory.com/81)
