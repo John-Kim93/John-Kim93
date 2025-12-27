@@ -24,3 +24,4 @@
 
 [ 연도별 회고 ]
 - [2025 회고](https://jhon-kim93.tistory.com/81)
+- [2024 회고 겸 항해플러스 후기](https://jhon-kim93.tistory.com/69)
